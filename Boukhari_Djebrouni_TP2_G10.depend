@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1704132245 source:c:\users\hehea\onedrive\desktop\2cp\sfsd\boukhari_djebrouni_tp2_g10\creation.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<string.h>
+	"machine_abs.h"
+	"creation.h"
+
+1704132245 c:\users\hehea\onedrive\desktop\2cp\sfsd\boukhari_djebrouni_tp2_g10\machine_abs.h
+	<stdio.h>
+	<stdbool.h>
+
+1704132245 c:\users\hehea\onedrive\desktop\2cp\sfsd\boukhari_djebrouni_tp2_g10\creation.h
+
+1704132245 source:c:\users\hehea\onedrive\desktop\2cp\sfsd\boukhari_djebrouni_tp2_g10\machine_abs.c
+	<stdio.h>
+	<stdlib.h>
+	"machine_abs.h"
+
+1704724079 source:c:\users\hehea\onedrive\desktop\2cp\sfsd\boukhari_djebrouni_tp2_g10\manipulation.c
+	"manipulation.h"
+	"machine_abs.h"
+	"creation.h"
+	<string.h>
+
+1704132245 c:\users\hehea\onedrive\desktop\2cp\sfsd\boukhari_djebrouni_tp2_g10\manipulation.h
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+	"machine_abs.h"
+
+1704727815 source:c:\users\hehea\onedrive\desktop\2cp\sfsd\boukhari_djebrouni_tp2_g10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"machine_abs.h"
+	"creation.h"
+	"manipulation.h"
+
